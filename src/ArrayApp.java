@@ -12,7 +12,7 @@ public class ArrayApp {
 // Посилання на масив
                 arr = new long[100];
 // Створення масиву
-                int nElems = 0;
+                int nElems;
 // Кількість елементів
                 int j;
 // Лічильник циклу
@@ -27,7 +27,7 @@ public class ArrayApp {
                 arr[4] = 22;
                 arr[5] = 88;
                 arr[6] = 11;
-                arr[7] = 00;
+                arr[7] = 0;
                 arr[8] = 66;
                 arr[9] = 33;
                 nElems = 10;
